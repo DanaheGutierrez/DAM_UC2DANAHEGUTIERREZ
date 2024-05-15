@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DAM_DANAHEGUTIERREZ</string>
+    <string name="checkbox_ingenieriadesistemas">Ingeniería de Sistemas</string>
+    <string name="checkbox_ingenieriaambiental">Ingeniería Ambiental</string>
+    <string name="checkbox_ingenieriamecanica">Ingeniería Mecánica</string>
+    <string name="checkbox_administracion">Administración</string>
+    <string name="radiobutton_ingenieriadesistemas">Ingeniería de Sistemas</string>
+    <string name="radiobutton_ingenieriaambiental">Ingeniería Ambiental</string>
+    <string name="radiobutton_ingenieriamecanica">Ingeniería Mecánica</string>
+    <string name="radiobutton_administracion">Administración</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_internet">Internet</string>
+    <string name="checkbox_amigo">Amigo</string>
+    <string name="checkbox_publicidad">Publicidad</string>
 </resources>
