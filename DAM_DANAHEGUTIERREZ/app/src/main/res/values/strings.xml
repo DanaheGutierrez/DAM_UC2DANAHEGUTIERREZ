@@ -12,4 +12,5 @@
     <string name="checkbox_internet">Internet</string>
     <string name="checkbox_amigo">Amigo</string>
     <string name="checkbox_publicidad">Publicidad</string>
+    <string name="button_enviar">Enviar</string>
 </resources>
